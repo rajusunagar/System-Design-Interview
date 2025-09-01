@@ -1,4 +1,4 @@
-## This repository contains resources to learn System Design concepts for interviews.
+## This repository contains resources to learn System Design concepts.
 
 ✅ If you are new to System Design, start here: [System Design was HARD until I Learned these 30 Concepts](https://blog.algomaster.io/p/30-system-design-concepts)
 
