@@ -1,4 +1,4 @@
-# System Design Interview
+<h1 align="center">System Design Interview</h1>
 
 ✅ If you are new to System Design, start here: [System Design was HARD until I Learned these 30 Concepts](https://blog.algomaster.io/p/30-system-design-concepts)
 
