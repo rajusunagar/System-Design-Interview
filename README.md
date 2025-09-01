@@ -72,9 +72,25 @@
 ## ✅ [How to Answer a System Design Interview Problem](https://blog.algomaster.io/p/how-to-answer-a-system-design-interview-problem)
 
 ## 💻 System Design Interview Problems
-### Easy
+
+### 📝 Articles & Blogs
+#### Easy
 - [Design URL Shortener like TinyURL](https://blog.algomaster.io/p/design-a-url-shortener)
 - [Design Leaderboard](https://systemdesign.one/leaderboard-system-design/)
+
+#### Medium
+- [Design WhatsApp](https://blog.algomaster.io/p/design-a-chat-application-like-whatsapp)
+- [Design Spotify](https://blog.algomaster.io/p/design-spotify-system-design-interview)
+- [Design Distributed Job Scheduler](https://blog.algomaster.io/p/design-a-distributed-job-scheduler)
+- [Design a Scalable Notification Service](https://blog.algomaster.io/p/design-a-scalable-notification-service)
+
+#### Hard
+- [Design Distributed Counter](https://systemdesign.one/distributed-counter-system-design/)
+- [Design Slack](https://systemdesign.one/slack-architecture/)
+- [Design Live Comments](https://systemdesign.one/live-comment-system-design/)
+
+### 📺 YouTube Videos
+#### Easy
 - [Design Content Delivery Network (CDN)](https://www.youtube.com/watch?v=8zX0rue2Hic)
 - [Design Parking Garage](https://www.youtube.com/watch?v=NtMvNh0WFVM)
 - [Design Vending Machine](https://www.youtube.com/watch?v=D0kDMUgo27c)
@@ -82,11 +98,8 @@
 - [Design Distributed Cache](https://www.youtube.com/watch?v=iuqZvajTOyA)
 - [Design Authentication System](https://www.youtube.com/watch?v=uj_4vxm9u90)
 - [Design Unified Payments Interface (UPI)](https://www.youtube.com/watch?v=QpLy0_c_RXk)
-### Medium
-- [Design WhatsApp](https://blog.algomaster.io/p/design-a-chat-application-like-whatsapp)
-- [Design Spotify](https://blog.algomaster.io/p/design-spotify-system-design-interview)
-- [Design Distributed Job Scheduler](https://blog.algomaster.io/p/design-a-distributed-job-scheduler)
-- [Design a Scalable Notification Service](https://blog.algomaster.io/p/design-a-scalable-notification-service)
+
+#### Medium
 - [Design Instagram](https://www.youtube.com/watch?v=VJpfO6KdyWE)
 - [Design Tinder](https://www.youtube.com/watch?v=tndzLznxq40)
 - [Design Facebook](https://www.youtube.com/watch?v=9-hjBGxuiEs)
@@ -108,22 +121,20 @@
 - [Design an Analytics Platform (Metrics & Logging)](https://www.youtube.com/watch?v=kIcq1_pBQSY)
 - [Design Payment System](https://www.youtube.com/watch?v=olfaBgJrUBI)
 - [Design a Digital Wallet](https://www.youtube.com/watch?v=4ijjIUeq6hE)
-### Hard
+
+#### Hard
 - [Design Location Based Service like Yelp](https://www.youtube.com/watch?v=M4lR_Va97cQ)
 - [Design Uber](https://www.youtube.com/watch?v=umWABit-wbk)
 - [Design Food Delivery App like Doordash](https://www.youtube.com/watch?v=iRhSAR3ldTw)
 - [Design Google Docs](https://www.youtube.com/watch?v=2auwirNBvGg)
 - [Design Google Maps](https://www.youtube.com/watch?v=jk3yvVfNvds)
 - [Design Zoom](https://www.youtube.com/watch?v=G32ThJakeHk)
-- [Design Distributed Counter](https://systemdesign.one/distributed-counter-system-design/)
 - [Design File Sharing System like Dropbox](https://www.youtube.com/watch?v=U0xTu6E2CT8)
 - [Design Ticket Booking System like BookMyShow](https://www.youtube.com/watch?v=lBAwJgoO3Ek)
 - [Design Distributed Web Crawler](https://www.youtube.com/watch?v=BKZxZwUgL3Y)
 - [Design Code Deployment System](https://www.youtube.com/watch?v=q0KGYwNbf-0)
 - [Design Distributed Cloud Storage like S3](https://www.youtube.com/watch?v=UmWtcgC96X8)
 - [Design Distributed Locking Service](https://www.youtube.com/watch?v=v7x75aN9liM)
-- [Design Slack](https://systemdesign.one/slack-architecture/)
-- [Design Live Comments](https://systemdesign.one/live-comment-system-design/)
 
 ## 📇 Courses
 - [Learn System Design - AlgoMaster.io](https://algomaster.io/learn/system-design/what-is-system-design)
