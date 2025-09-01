@@ -2,7 +2,7 @@
 
 ✅ If you are new to System Design, start here: [System Design was HARD until I Learned these 30 Concepts](https://blog.algomaster.io/p/30-system-design-concepts)
 
-## 📌 System Design Key Concepts
+## System Design Key Concepts
 - [Scalability](https://blog.algomaster.io/p/scalability)
 - [Availability](https://blog.algomaster.io/p/system-design-what-is-availability)
 - [CAP Theorem](https://blog.algomaster.io/p/cap-theorem-explained)
@@ -18,7 +18,7 @@
 - [Disaster Recovery](https://cloud.google.com/learn/what-is-disaster-recovery)
 - [Distributed Tracing](https://www.dynatrace.com/news/blog/what-is-distributed-tracing/)
 
-## 🛠️ System Design Building Blocks
+## System Design Building Blocks
 - [APIs](https://blog.algomaster.io/p/whats-an-api)
 - [Content Delivery Network (CDN)](https://blog.algomaster.io/p/content-delivery-networks)
 - [Proxy vs Reverse Proxy](https://blog.algomaster.io/p/proxy-vs-reverse-proxy-explained)
@@ -48,7 +48,7 @@
 - [Microservices Guidelines](https://newsletter.systemdesign.one/p/netflix-microservices)
 - [Distributed Locking](https://martin.kleppmann.com/2016/02/08/how-to-do-distributed-locking.html)
 
-## ⚖️ System Design Tradeoffs
+## System Design Tradeoffs
 - [Top 15 Tradeoffs](https://blog.algomaster.io/p/system-design-top-15-trade-offs)
 - [Vertical vs Horizontal Scaling](https://blog.algomaster.io/p/system-design-vertical-vs-horizontal-scaling)
 - [Concurrency vs Parallelism](https://blog.algomaster.io/p/concurrency-vs-parallelism)
@@ -62,7 +62,7 @@
 - [Synchronous vs. asynchronous communications](https://blog.algomaster.io/p/aec1cebf-6060-45a7-8e00-47364ca70761)
 - [Latency vs Throughput](https://aws.amazon.com/compare/the-difference-between-throughput-and-latency/)
 
-## 🖇️ System Design Architectural Patterns
+## System Design Architectural Patterns
 - [Client-Server Architecture](https://blog.algomaster.io/p/4585cf8e-30a4-4295-936f-308a25cb716c)
 - [Microservices Architecture](https://medium.com/hashmapinc/the-what-why-and-how-of-a-microservices-architecture-4179579423a9)
 - [Serverless Architecture](https://blog.algomaster.io/p/2edeb23b-cfa5-4b24-845e-3f6f7a39d162)
@@ -71,9 +71,9 @@
 
 ## ✅ [How to Answer a System Design Interview Problem](https://blog.algomaster.io/p/how-to-answer-a-system-design-interview-problem)
 
-## 💻 System Design Interview Problems
+## System Design Interview Problems
 
-### 📝 Articles & Blogs
+### Articles & Blogs
 #### Easy
 - [Design URL Shortener like TinyURL](https://blog.algomaster.io/p/design-a-url-shortener)
 - [Design Leaderboard](https://systemdesign.one/leaderboard-system-design/)
@@ -89,7 +89,7 @@
 - [Design Slack](https://systemdesign.one/slack-architecture/)
 - [Design Live Comments](https://systemdesign.one/live-comment-system-design/)
 
-### 📺 YouTube Videos
+### YouTube Videos
 #### Easy
 - [Design Content Delivery Network (CDN)](https://www.youtube.com/watch?v=8zX0rue2Hic)
 - [Design Parking Garage](https://www.youtube.com/watch?v=NtMvNh0WFVM)
@@ -136,16 +136,16 @@
 - [Design Distributed Cloud Storage like S3](https://www.youtube.com/watch?v=UmWtcgC96X8)
 - [Design Distributed Locking Service](https://www.youtube.com/watch?v=v7x75aN9liM)
 
-## 📇 Courses
+## Courses
 - [Learn System Design - AlgoMaster.io](https://algomaster.io/learn/system-design/what-is-system-design)
 
-## 📚 Books
+## Books
 - [Designing Data-Intensive Applications](https://www.amazon.in/dp/9352135245)
 
-## 📩 Newsletters
+## Newsletters
 - [AlgoMaster Newsletter](https://blog.algomaster.io/)
 
-## 📺 YouTube Channels
+## YouTube Channels
 - [Tech Dummies Narendra L](https://www.youtube.com/@TechDummiesNarendraL)
 - [Gaurav Sen](https://www.youtube.com/@gkcs)
 - [codeKarle](https://www.youtube.com/@codeKarle)
@@ -154,7 +154,7 @@
 - [sudoCODE](https://www.youtube.com/@sudocode)
 - [Success in Tech](https://www.youtube.com/@SuccessinTech/videos)
 
-## 📜 Must-Read Engineering Articles
+## Must-Read Engineering Articles
 - [How Discord stores trillions of messages](https://discord.com/blog/how-discord-stores-trillions-of-messages)
 - [Building In-Video Search at Netflix](https://netflixtechblog.com/building-in-video-search-936766f0017c)
 - [How Canva scaled Media uploads from Zero to 50 Million per Day](https://www.canva.dev/blog/engineering/from-zero-to-50-million-uploads-per-day-scaling-media-at-canva/)
@@ -162,7 +162,7 @@
 - [Stripe’s payments APIs - The first 10 years](https://stripe.com/blog/payment-api-design)
 - [Real time messaging at Slack](https://slack.engineering/real-time-messaging/)
 
-## 🗞️ Must-Read Distributed Systems Papers
+## Must-Read Distributed Systems Papers
 - [Paxos: The Part-Time Parliament](https://lamport.azurewebsites.net/pubs/lamport-paxos.pdf)
 - [MapReduce: Simplified Data Processing on Large Clusters](https://research.google.com/archive/mapreduce-osdi04.pdf)
 - [The Google File System](https://static.googleusercontent.com/media/research.google.com/en//archive/gfs-sosp2003.pdf)
