@@ -1,5 +1,9 @@
 <h1 align="center">System Design Interview</h1>
 
+<p align="center">
+  <img src="assets/system-design-overview.svg" alt="System Design Overview" width="600">
+</p>
+
 ✅ If you are new to System Design, start here: 
 - [System Design was HARD until I Learned these 30 Concepts](https://blog.algomaster.io/p/30-system-design-concepts)
 
