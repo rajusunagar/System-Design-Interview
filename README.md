@@ -1,7 +1,7 @@
 <h1 align="center">System Design Interview</h1>
 
 <p align="center">
-  <img src="assets/system-design-overview.svg" alt="System Design Overview" width="600">
+  <img src="assets/System Design.png" alt="System Design Overview" width="600">
 </p>
 
 ✅ If you are new to System Design, start here: 
