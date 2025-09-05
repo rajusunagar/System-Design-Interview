@@ -5,7 +5,7 @@
 </p>
 
 ✅ If you are new to System Design, start here: 
-- [System Design was HARD until I Learned these 30 Concepts](https://blog.algomaster.io/p/30-system-design-concepts)
+- [System Design was HARD until you Learn these 30 Concepts](https://blog.algomaster.io/p/30-system-design-concepts)
 
 ## System Design Key Concepts
 - [Scalability](https://blog.algomaster.io/p/scalability)
